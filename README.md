@@ -15,11 +15,11 @@ Este projeto foi baseado em minha API: https://crush-management.herokuapp.com/
 Execute os seguintes comandos em um terminal:
 
 ```
-git clone https://github.com/jakeliny/NodeJS_DigitalInnovationOne.git
+git clone https://github.com/bruno130187/NodeJS_DigitalInnovationOneWindows.git
 ```
 
 ```
-cd NodeJS_DigitalInnovationOne
+cd NodeJS_DigitalInnovationOneWindows
 ```
 
 ```
