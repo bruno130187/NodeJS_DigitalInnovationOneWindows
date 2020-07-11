@@ -26,6 +26,10 @@ cd NodeJS_DigitalInnovationOneWindows
 npm i
 ```
 
+```
+Se atente ao arquivo package.json na linha 8 no "start" onde coloquei o caminho do projeto que está na minha máquina Windows
+```
+
 # Para rodar o projeto
 
 Utilize o comando: 
